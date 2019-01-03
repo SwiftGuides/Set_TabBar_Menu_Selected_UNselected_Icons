@@ -8,6 +8,9 @@ Here is complete solution for selected/unselected image in Tabbar For XCode >= 8
 
 * Go to Image assets -> select image
 * Select Render AS: "Original Image"
+
+![alt text](https://i.stack.imgur.com/qKepi.png)
+
 * After that go to storyboard -> Select Tabbar Item
 * Under Attribute Inspectors, set "Selected Image" & "Image" as shown in Following screenshot, that`s it
 
